@@ -22,7 +22,7 @@ Mentors, educators, and creators produce hours of long-form content, but modern 
 - **Frontend + Backend:** Streamlit  
 - **Video Processing:** MoviePy  
 - **Audio Analysis:** Librosa (future)  
-- **Transcription/AI:** OpenAI Whisper (future)
+- **Transcription/AI:** OpenAI Whisper (future)(Optional)
 
 ---
 
