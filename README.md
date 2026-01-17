@@ -31,3 +31,13 @@ Mentors, educators, and creators produce hours of long-form content, but modern 
 ```bash
 git clone <your-repo-link>
 cd PulsePoint-AI
+```
+2. Install Dependencies:
+```bash
+pip install -r requirements.txt
+```
+3. Run the app:
+```bash
+python -m streamlit run app.py
+```
+4. Open the browser and upload your video.
